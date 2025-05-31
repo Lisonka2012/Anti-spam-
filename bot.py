@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Application
 
 # Токен, полученный от BotFather
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "AAGyL85tkGBlfAa PyWT01HVVnyfrlow42y0"
 
 # Список для отслеживания сообщений пользователей
 user_message_count = {}
